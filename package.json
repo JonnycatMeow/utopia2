@@ -9,10 +9,9 @@
   "scripts": {
     "start": "node index.js"
   },
-  { 
-  "engines" : { 
-    "node" : ">=14.17.0" 
-  }
+  "engines": {
+    "npm": ">=7.0.0",
+    "node": ">=16.0.0"
   },
   "keywords": [],
   "author": "",
